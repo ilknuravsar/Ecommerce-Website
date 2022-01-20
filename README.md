@@ -5,5 +5,5 @@ HTML, CSS, PHP, Bootstrap
 
 # Resimler
 ![](screenshout/ecom1.png)
-![](screenshout/ecom2.png)
-![](screenshout/ecom3.png)
+![](screenshout/ecomm2.png)
+![](screenshout/ecomm3.png)
