@@ -4,6 +4,6 @@ PHP ile e-ticaret sitesi
 HTML, CSS, PHP, Bootstrap 
 
 # Resimler
-![](screenshot/ecom1.png)
-![](screenshot/ecom2.png)
-![](screenshot/ecom3.png)
+![](screenshout/ecom1.png)
+![](screenshout/ecom2.png)
+![](screenshout/ecom3.png)
